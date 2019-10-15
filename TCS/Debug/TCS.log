@@ -1,0 +1,11 @@
+﻿  TCSDlg.cpp
+E:\编程\TCS\TCS\TCSDlg.cpp(181,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\编程\TCS\TCS\TCSDlg.cpp(202,14): warning C4244: “参数”: 从“double”转换到“UINT”，可能丢失数据
+E:\编程\TCS\TCS\TCSDlg.cpp(276,16): warning C4244: “参数”: 从“double”转换到“UINT”，可能丢失数据
+E:\编程\TCS\TCS\TCSDlg.cpp(280,16): warning C4244: “参数”: 从“double”转换到“UINT”，可能丢失数据
+E:\编程\TCS\TCS\TCSDlg.cpp(284,16): warning C4244: “参数”: 从“double”转换到“UINT”，可能丢失数据
+E:\编程\TCS\TCS\TCSDlg.cpp(288,16): warning C4244: “参数”: 从“double”转换到“UINT”，可能丢失数据
+E:\编程\TCS\TCS\TCSDlg.cpp(293,16): warning C4244: “参数”: 从“double”转换到“UINT”，可能丢失数据
+E:\编程\TCS\TCS\TCSDlg.cpp(297,16): warning C4244: “参数”: 从“double”转换到“UINT”，可能丢失数据
+E:\编程\TCS\TCS\TCSDlg.cpp(302,17): warning C4244: “参数”: 从“double”转换到“UINT”，可能丢失数据
+  TCS.vcxproj -> E:\编程\TCS\Debug\TCS.exe
